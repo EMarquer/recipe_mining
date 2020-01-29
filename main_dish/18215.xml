@@ -1,16 +1,16 @@
 <RECIPE>
 	<TI>Lasagnes à la bolognaise</TI>
-	<IN quantity="1 paquet">pâtes de lasagnes</IN>
-	<IN quantity="1">bouillon de volaille</IN>
+	<IN quantity="1 paquet">pâte de lasagne</IN>
+	<IN quantity="1">bouillon de poule</IN>
 	<IN quantity="1">carotte</IN>
-	<IN quantity="3">oignons jaune</IN>
+	<IN quantity="3">oignon</IN>
   <IN quantity="2">gousses d'ail</IN>
-  <IN quantity="1">céleri</IN>
+  <IN quantity="1">branche de céleri</IN>
   <IN quantity="15cl">eau</IN>
-	<IN quantity="600g">boeuf</IN>
+	<IN quantity="600g">viande de boeuf hachée</IN>
 	<IN quantity="800g">purée de tomate</IN>
 	<IN quantity="20cl">vin rouge</IN>
-	<IN quantity="3 pincées">muscade râpée</IN>
+	<IN quantity="3 pincées">muscade</IN>
 	<IN quantity="70g">fromage râpé</IN>
 	<IN quantity="125g">parmesan</IN>
 	<IN quantity="100g">farine</IN>
@@ -33,7 +33,7 @@
 	<US>mixeur</US>
 	<PR>
 		Etape 1
-		Faire revenir gousses hachées d'ail et les oignons émincés dans un peu d'huile d'olive.
+		Faire revenir gousses hachées d'ail et les oignon émincés dans un peu d'huile.
 		Etape 2
 		Ajouter la carotte et la branche de céleri hachée puis la viande et faire revenir le tout.
 		Etape 3
