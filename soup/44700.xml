@@ -1,9 +1,9 @@
 <RECIPE>
 <TI>Soupe ensoleillée</TI>
-<IN quantity="4">carottes</IN>
+<IN quantity="4">carotte</IN>
 <IN quantity="2">courgette</IN>
 <IN quantity="1">poivron</IN>
-<IN quantity="2">pommes de terre</IN>
+<IN quantity="2">pomme de terre</IN>
 <IN quantity="1">oignon</IN>
 <IN quantity="1 gousse">ail</IN>
 <IN quantity="1">bouillon de volaille</IN>
@@ -23,7 +23,7 @@
 <US>mijoteuse</US>
 <PR>
     Etape 1
-    Laver, éplucher les carottes, et les couper en rondelles.
+    Laver, éplucher les carotte, et les couper en rondelles.
     Etape 2
     Laver, et couper les autres légumes en morceaux.
     Etape 3
