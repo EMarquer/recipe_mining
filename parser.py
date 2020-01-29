@@ -23,7 +23,7 @@ for recipe in recipe_files:
 ingredients = []
 for r in recipes:
     ingredients.extend(r['ingredients'])
-ingredients = set(ingredients)
+ingredients = set([i.lower() for i in ingredients])
 print("Ingredients size :",len(ingredients))
 
 # set of tools
@@ -59,3 +59,8 @@ def generate_table(recipe):
     
 
 print(generate_table(recipes[0]))
+
+
+with open("ingredients.txt","w") as f:
+    for aliment in ingredients:
+        f.write("{}\n".format(aliment))
