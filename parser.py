@@ -61,6 +61,7 @@ def generate_table(recipe):
 print(generate_table(recipes[0]))
 
 
+sorted_ingredients = sorted(list(ingredients))
 with open("ingredients.txt","w") as f:
-    for aliment in ingredients:
+    for aliment in sorted_ingredients:
         f.write("{}\n".format(aliment))
